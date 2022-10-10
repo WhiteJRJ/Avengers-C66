@@ -1,3 +1,4 @@
 1. Iron Man
 2. Captain America
 3. Hulk
+4. Thor
